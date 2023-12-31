@@ -85,7 +85,7 @@ img{
     top: 0;
     width: 100%;
     height: 100vh;
-    background: #fff;
+    background: #d2afaf;
     clip-path: polygon(37.5% 20%, 62.5% 20%, 62.5% 80%, 37.5% 80%);
     transform: rotate(30deg);
 }
