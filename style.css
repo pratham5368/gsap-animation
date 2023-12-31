@@ -63,7 +63,7 @@ img{
     flex: 1;
     display: flex;
     transform: uppercase;
-}
+} 
 
 .letters > div {
     flex: 1;
